@@ -27,7 +27,7 @@ Exclude list for posts and categories.
 
 = Need Help? Find Bug? =
 
-read and write comments on </a>
+read and write comments on https://github.com/Sebastien-Remy/show-future-posts/issues
 
 == Screenshots ==
 
