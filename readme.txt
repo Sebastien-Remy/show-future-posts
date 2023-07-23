@@ -4,8 +4,7 @@ Tags: posts, future, events
 Requires at least: 3.0
 Tested up to: 4.7
 Stable tag: 1.4
-License: Postcardware :)
-Donate link: http://www.tomsdimension.de/postcards
+License: MIT
 
 Makes your blog to a simple "Event Calendar"
 
@@ -27,7 +26,7 @@ Exclude list for posts and categories.
 
 = Need Help? Find Bug? =
 
-read and write comments on </a>
+read and write comments on
 
 == Screenshots ==
 
