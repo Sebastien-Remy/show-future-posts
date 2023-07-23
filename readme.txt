@@ -1,9 +1,9 @@
 === No Future Posts ===
-Contributors: Sébastien REMY
+Contributors: Sebastien REMY
 Tags: posts, future, events
 Requires at least: 3.0
-Tested up to: 4.7
-Stable tag: 1.4
+Tested up to: 6.2
+Stable tag: 1.1
 License: MIT
 
 Makes your blog to a simple "Event Calendar"
@@ -26,16 +26,14 @@ Exclude list for posts and categories.
 
 = Need Help? Find Bug? =
 
-read and write comments on https://github.com/Sebastien-Remy/show-future-posts/issues
+read and write comments on <a href="https://github.com/Sebastien-Remy/show-future-posts/issues">plugin issues page</a>
 
 == Screenshots ==
 
 1. Settings
+Just activate the plugin through the 'Plugins' menu in WordPress
 
-== Arbitrary section ==
-
-**Known Issues**
-
+== Changelog ==
 
 = 1.0 =
 
