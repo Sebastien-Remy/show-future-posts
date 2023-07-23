@@ -4,7 +4,7 @@ Plugin Name: Show Future Posts
 Plugin URI: 
 Description: Automaticly changes the post status from "future" to "publish"
 Version: 1.4
-License: Postcardware
+License: MIT
 Author: Sébastien REMY
 Author URI: http://www.gorilladev.fr
 */
