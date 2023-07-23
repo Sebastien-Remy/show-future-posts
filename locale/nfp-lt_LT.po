@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: No Future Posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-28 16:49+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: P:\\xampp\\htdocs\\wp\\wp-content\\plugins\\no-future-posts\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options.php:16
+msgid "Options updated"
+msgstr "Parinktys atnaujintos"
+
+#: options.php:19
+#: options.php:99
+msgid "UNINSTALL No Future Posts"
+msgstr "IŠTRINTI No Future Posts"
+
+#: options.php:25
+msgid "Exclude lists deleted"
+msgstr "Išskyrimo sąrašai ištrinti"
+
+#: options.php:41
+#: options.php:93
+msgid "Uninstall"
+msgstr "Ištrinti"
+
+#: options.php:42
+msgid "Click here"
+msgstr "Paspauskite čia"
+
+#: options.php:42
+msgid "to finish the uninstall and to deactivate \"No Future Posts\"."
+msgstr "kad pabaigti ištrynimo procesą ir deaktyvuoti \"No Future Posts\"."
+
+#: options.php:51
+msgid "Options"
+msgstr "Parinktys"
+
+#: options.php:52
+msgid "Normaly all posts will change from \"future\" to \"publish\".<br />Tell me which posts and categories do you want to keep in future."
+msgstr "Paprastai visi įrašai pasikeis iš \"ateities\" į \"publikuoti\".<br /> Parodykite man kuriuos įrašus ir kategorijas Jūs norite turėti ir ateityje. "
+
+#: options.php:56
+msgid "Exclude posts IDs"
+msgstr "Išskirti įrašų Identifikatorius"
+
+#: options.php:59
+#: options.php:80
+msgid "comma-separated"
+msgstr "atskirtas kableliais"
+
+#: options.php:63
+msgid "Exclude categories IDs"
+msgstr "Išskirti kategorijų Identifikatorius"
+
+#: options.php:85
+msgid "Update options"
+msgstr "Atnaujinimo parinktys"
+
+#: options.php:95
+msgid "Delete exclude lists and deactivate the plugin."
+msgstr "Ištrinti išskyrimo sąrašus ir deaktyvuoti papildinį."
+
+#: options.php:98
+msgid "Yes"
+msgstr "Taip"
+
+#~ msgid "Database cleaned. %s rows deleted."
+#~ msgstr "Datenbank aufger&auml;umt. %s Datens&auml;tze gel&ouml;scht."
+
+#~ msgid "Options deleted"
+#~ msgstr "Einstellungen gel&ouml;scht"
+
+#~ msgid "Online time"
+#~ msgstr "Onlinezeit"
+
+#~ msgid ""
+#~ "Seconds for online counter. Used for \"Visitors online\" on dashboard "
+#~ "page."
+#~ msgstr ""
+#~ "Sekunden f&uuml;r Onlinecounter. Wird f&uuml;r die Anzeige der \"Besucher "
+#~ "momentan online\" im Dashboard verwendet."
+
+#~ msgid "Loged on Users"
+#~ msgstr "Angemeldete Benutzer"
+
+#~ msgid "count too"
+#~ msgstr "auch mit z&auml;hlen"
+
+#~ msgid "Auto counter"
+#~ msgstr "Auto-Counter"
+
+#~ msgid ""
+#~ "Counts automatically single-posts and pages, no changes on template "
+#~ "needed."
+#~ msgstr ""
+#~ "Z&auml;hlt automatisch Besuche auf Single-Posts und Seiten ohne &Auml;"
+#~ "nderungen am Template."
+
+#~ msgid "Bots to ignore"
+#~ msgstr "Bots ignorieren"
+
+#~ msgid "Clean the database"
+#~ msgstr "Datenbank aufr&auml;umen"
+
+#~ msgid ""
+#~ "You can clean the counter table by delete the \"spam data\".<br />If you "
+#~ "add new bots above the old \"spam data\" keeps in the database.<br />Here "
+#~ "you can run the bot filter again and delete the visits of the bots."
+#~ msgstr ""
+#~ "Du kannst die Counter-Tabelle von \"Spam-Daten\" befreien.<br />Wenn du "
+#~ "neue Bots zu der Liste oben hinzuf&uuml;gst bleiben die alten \"Spam-Daten"
+#~ "\" erhalten.<br />Hier kannst du den Filter erneut laufen lassen und die "
+#~ "Besuche von Bots nachtr&auml;glich l&ouml;schen."
+
+#~ msgid ""
+#~ "If \"Count per Day\" only disabled the tables in the database will be "
+#~ "preserved."
+#~ msgstr ""
+#~ "Wenn \"Count per Day\" nur deaktiviert wird, bleiben die Tabellen in der "
+#~ "Datenbank erhalten."
+
+#~ msgid "Here you can delete the tables and disable \"Count per Day\"."
+#~ msgstr ""
+#~ "Hier kannst du \"Count per Day\" deinstallieren und die Tabellen l&ouml;"
+#~ "schen."
+
+#~ msgid "WARNING"
+#~ msgstr "WARNUNG"
+
+#~ msgid "These tables (with ALL counter data) will be deleted."
+#~ msgstr "Diese Tabellen werden mit ALLEN Z&auml;hlerdaten gel&ouml;scht."
+
+#~ msgid "If \"Count per Day\" re-installed, the counter starts at 0."
+#~ msgstr ""
+#~ "Wenn \"Count per Day\" erneut installiert wird, beginnt der Z&auml;hler "
+#~ "bei 0."
+
+#~ msgid "You are sure to disable Count per Day and delete all data?"
+#~ msgstr ""
+#~ "Bist du sicher, dass du Count per Day deaktivieren und alle Daten l&ouml;"
+#~ "schen willst?"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistiken"
+
+#~ msgid "Reads at all"
+#~ msgstr "Besucher gesamt"
+
+#~ msgid "Visitors currently online"
+#~ msgstr "Besucher momentan online"
+
+#~ msgid "Reads today"
+#~ msgstr "Besucher heute"
+
+#~ msgid "Reads yesterday"
+#~ msgstr "Besucher gestern"
+
+#~ msgid "Reads last week"
+#~ msgstr "Besucher letzte Woche"
+
+#~ msgid "Counter starts at"
+#~ msgstr "gez&auml;hlt ab"
+
+#~ msgid "Reads per day"
+#~ msgstr "Besucher pro Tag"
+
+#~ msgid "Reads per month"
+#~ msgstr "Besucher pro Monat"
+
+#~ msgid "Reads per post"
+#~ msgstr "Besucher pro Artikel"
+
+#~ msgid "Seconds for online counter"
+#~ msgstr "Sekunden f&uuml;r Onlinecounter"
+
+#~ msgid "Table"
+#~ msgstr "Tabelle"

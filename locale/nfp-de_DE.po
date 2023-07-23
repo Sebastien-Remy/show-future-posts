@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: No Future Posts v1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-28 16:49+0100\n"
+"PO-Revision-Date: 2012-12-15 22:26:24+0000\n"
+"Last-Translator: Tom Braider <post@tomsdimension.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: P:/xampp/htdocs/wp/wp-content/plugins/no-future-posts\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: options.php:18
+#@ nfp
+msgid "Options updated"
+msgstr "Einstellungen aktualisiert"
+
+#: options.php:21
+#: options.php:98
+#@ nfp
+msgid "UNINSTALL No Future Posts"
+msgstr "DEINSTALLIERE No Future Posts"
+
+#: options.php:28
+#@ nfp
+msgid "Exclude lists deleted"
+msgstr "Ausnahmen gel&ouml;scht"
+
+#: options.php:44
+#: options.php:90
+#@ nfp
+msgid "Uninstall"
+msgstr "Deinstallation"
+
+#: options.php:45
+#@ nfp
+msgid "Click here"
+msgstr "Klick hier"
+
+#: options.php:45
+#@ nfp
+msgid "to finish the uninstall and to deactivate \"No Future Posts\"."
+msgstr "um die Deinstallation zu beenden und \"No Future Posts\" zu deaktivieren."
+
+#: options.php:62
+#@ nfp
+msgid "Normaly all posts will change from \"future\" to \"publish\".<br />Tell me which posts and categories do you want to keep in future."
+msgstr "Normalerweise wird der Status von allen Artikeln von \"future\" auf \"publish\" geändert.<br />Sag mir welche Artikel und Kategorien du in der Zukunft belassen möchtest."
+
+#: options.php:66
+#@ nfp
+msgid "Exclude posts IDs"
+msgstr "Ausnahmen Artikel-IDs"
+
+#: options.php:69
+#: options.php:76
+#@ nfp
+msgid "comma-separated"
+msgstr "mit Komma getrennt"
+
+#: options.php:73
+#@ nfp
+msgid "Exclude categories IDs"
+msgstr "Ausnahmen Kategorie-IDs"
+
+#: options.php:82
+#@ nfp
+msgid "Update options"
+msgstr "Einstellungen aktualisieren"
+
+#: options.php:94
+#@ nfp
+msgid "Delete exclude lists and deactivate the plugin."
+msgstr "Lösche die Ausnahmen und deaktiviere das Plugin."
+
+#: options.php:97
+#@ nfp
+msgid "Yes"
+msgstr "Ja, los!"
+
+#: no-future-posts.php:103
+#: options.php:60
+#@ default
+msgid "Settings"
+msgstr ""
+
